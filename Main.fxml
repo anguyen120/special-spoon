@@ -6,12 +6,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<VBox prefHeight="1350.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
-   <children>
-      <VBox id="tetris-bg" prefHeight="1012.5" prefWidth="810.0" stylesheets="@application.css">
-         <VBox.margin>
-            <Insets left="200.0" right="200.0" top="25.0" />
-         </VBox.margin>
-      </VBox>
-   </children>
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="736" prefWidth="414" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+	<!-- TODO Add Nodes -->
 </VBox>
+
