@@ -1,3 +1,3 @@
 # special-spoon
 
-an ａｅｓｔｈｅｔｉｃｓ view of tetris
+﻿ａｎ  ａｅｓｔｈｅｔｉｃ  ｗａｙ  ｔｏ  ｐｌａｙ  ｔｅｔｒｉｓ
