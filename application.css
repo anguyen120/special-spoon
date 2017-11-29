@@ -1,11 +1,22 @@
 /* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
 
 #tetris-bg {
-	-fx-background-image: url("https://giant.gfycat.com/DrearyVagueBird.gif");
-	-fx-background-size:100% 100%;
+	-fx-background-image: url("https://78.media.tumblr.com/4cac52c824a818ec55354adb62b7b87c/tumblr_opn8udyW3N1vedelyo1_1280.gif");
+	-fx-background-size:auto 100%;
 }
 
 #overlay {
 	-fx-background: rgb(255, 255, 255);
-	-fx-background-size:100% 100%;
+	-fx-background-size:auto 100%;
+}
+
+#main-bg {
+	-fx-background-image: url("https://i.imgur.com/0l6rZas.png");
+	-fx-background-size:auto 100%;
+}
+
+#grid {
+	
+	-fx-background-image: url("https://i.imgur.com/jRjHalh.png");
+	-fx-background-size:auto 100%;
 }
